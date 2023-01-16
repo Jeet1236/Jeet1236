@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Node JS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jeet1236/My-personal-Projects](https://github.com/Jeet1236/My-personal-Projects)
-
 - 💬 Ask me about **Java, JavaScript, PHP, MySQL**
 
 - 📫 How to reach me **bharatipatel105@gmail.com**
